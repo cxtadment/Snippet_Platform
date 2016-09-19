@@ -1,0 +1,11 @@
+com/xiaoting/client/template/IReadOnlyTemplateWithUri.class
+com/xiaoting/client/IDtoOperations.class
+com/xiaoting/client/spring/CommonClientConfig.class
+com/xiaoting/client/template/ITemplateWithUri.class
+com/xiaoting/client/util/HeaderUtil$2.class
+com/xiaoting/client/template/IRawClientTemplate.class
+com/xiaoting/client/marshall/IMarshaller.class
+com/xiaoting/client/util/HeaderUtil$1.class
+com/xiaoting/client/util/HeaderUtil.class
+com/xiaoting/client/template/AbstractBaseClientRestTemplate.class
+com/xiaoting/client/util/UriUtil.class

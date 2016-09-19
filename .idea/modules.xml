@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Snippet_Platform.iml" filepath="$PROJECT_DIR$/Snippet_Platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-client/common-client.iml" filepath="$PROJECT_DIR$/common-client/common-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-test/common-test.iml" filepath="$PROJECT_DIR$/common-test/common-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snippet-client/snippet-client.iml" filepath="$PROJECT_DIR$/snippet-client/snippet-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snippet-ui/snippet-ui.iml" filepath="$PROJECT_DIR$/snippet-ui/snippet-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snippet-webapp/snippet-webapp.iml" filepath="$PROJECT_DIR$/snippet-webapp/snippet-webapp.iml" />
+    </modules>
+  </component>
+</project>

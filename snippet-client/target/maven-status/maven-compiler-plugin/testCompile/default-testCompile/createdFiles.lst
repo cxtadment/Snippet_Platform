@@ -1,0 +1,11 @@
+com/xiaoting/snippet/client/marshall/JacksonMarshaller$2.class
+com/xiaoting/snippet/client/FixtureResourceFactory.class
+com/xiaoting/snippet/model/RoleDtoOpsImpl.class
+com/xiaoting/snippet/model/PrincipalDtoOpsImpl.class
+com/xiaoting/snippet/model/PrivilegeDtoOpsImpl.class
+com/xiaoting/snippet/client/marshall/JacksonMarshaller.class
+com/xiaoting/snippet/model/UserDtoOpsImpl.class
+com/xiaoting/snippet/client/marshall/JacksonMarshaller$4.class
+com/xiaoting/snippet/client/marshall/TestMarshallerFactory.class
+com/xiaoting/snippet/client/marshall/JacksonMarshaller$3.class
+com/xiaoting/snippet/client/marshall/JacksonMarshaller$1.class

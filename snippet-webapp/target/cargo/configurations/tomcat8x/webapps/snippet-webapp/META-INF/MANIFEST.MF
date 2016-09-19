@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: snippet-webapp
+Implementation-Version: 0.1.0-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: zjjcxt
+Implementation-Vendor-Id: com.xiaoting
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_40
+Implementation-Vendor: Pivotal Software, Inc.
+

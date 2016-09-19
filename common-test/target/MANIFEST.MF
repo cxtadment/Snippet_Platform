@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: common-test
+Implementation-Version: 0.4.0-SNAPSHOT
+Implementation-Vendor-Id: com.xiaoting
+Build-Jdk: 1.8.0_40
+Built-By: zjjcxt
+Created-By: IntelliJ IDEA
+Main-Class: ${start-class}
+

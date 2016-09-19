@@ -1,0 +1,8 @@
+com/xiaoting/test/common/test/contract/IResourceWithAssociationsIntegrationTest.class
+com/xiaoting/test/common/service/AbstractServiceIntegrationTest.class
+com/xiaoting/test/common/web/util/HTTPLinkHeaderUtil.class
+com/xiaoting/test/common/service/AbstractRawServiceIntegrationTest.class
+com/xiaoting/snippet/spring/CommonTestConfig.class
+com/xiaoting/test/common/web/util/ClientConstraintsUtil.class
+com/xiaoting/test/common/util/IDUtil.class
+com/xiaoting/test/common/test/contract/ISearchTest.class
