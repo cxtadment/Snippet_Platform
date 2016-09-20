@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Implementation-Title: snippet-webapp
-Implementation-Version: 0.1.0-SNAPSHOT
+Implementation-Version: 0.4.0-SNAPSHOT
 Archiver-Version: Plexus Archiver
 Built-By: zjjcxt
 Implementation-Vendor-Id: com.xiaoting

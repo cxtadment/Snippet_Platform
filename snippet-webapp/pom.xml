@@ -146,7 +146,7 @@
                         <containerId>tomcat8x</containerId>
                         <type>embedded</type>
                         <systemProperties>
-                            <envTarget>local</envTarget>
+                            <envTarget>dev</envTarget>
                             <persistenceTarget>h2</persistenceTarget>
                         </systemProperties>
                     </container>

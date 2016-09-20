@@ -1,17 +1,16 @@
 package com.xiaoting.snippet.run;
 
 import com.xiaoting.snippet.persistence.setup.MyApplicationContextInitializer;
-import com.xiaoting.snippet.spring.SnippetContextConfig;
-import com.xiaoting.snippet.spring.SnippetPersistenceJpaConfig;
-import com.xiaoting.snippet.spring.SnippetServiceConfig;
-import com.xiaoting.snippet.spring.SnippetWebConfig;
+import com.xiaoting.snippet.spring.*;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.security.SecurityAutoConfiguration;
 import org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;
 
 @SpringBootApplication(exclude = { // @formatter:off
+        SecurityAutoConfiguration.class,
         ErrorMvcAutoConfiguration.class
 })// @formatter:on
 public class SnippetApp extends SpringBootServletInitializer {

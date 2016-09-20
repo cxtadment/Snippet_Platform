@@ -38,14 +38,13 @@ public final class Um {
 
     public static final class Roles {
 
-        /** A placeholder role for administrator. */
         public static final String ROLE_ADMIN = "ROLE_ADMIN";
-        /** A placeholder role for enduser. */
-        public static final String ROLE_USER = "ROLE_ENDUSER";
+        public static final String ROLE_USER = "ROLE_USER";
 
     }
 
     private Um() {
         throw new AssertionError();
     }
+
 }

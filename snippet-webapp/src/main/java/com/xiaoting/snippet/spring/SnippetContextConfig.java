@@ -4,7 +4,7 @@ import org.springframework.context.annotation.*;
 import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 
 @Configuration
-@ImportResource("classpath*:umContextConfig.xml")
+@ImportResource("classpath*:snippetContextConfig.xml")
 @EnableAspectJAutoProxy(proxyTargetClass = true)
 @PropertySource({ "classpath:env-${envTarget:dev}.properties" })
 public class SnippetContextConfig {

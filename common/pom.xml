@@ -6,14 +6,12 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>common</artifactId>
     <name>common</name>
-    <version>0.4.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
 
     <parent>
         <artifactId>snippet-parent</artifactId>
         <groupId>com.xiaoting</groupId>
         <version>0.4.0-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
+        <relativePath>..</relativePath>
     </parent>
 
     <dependencies>
